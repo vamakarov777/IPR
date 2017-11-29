@@ -5,18 +5,13 @@ rem
 set JAVA_HOME=
 
 set DB_TYPE=POSTGRESQL
-rem set HOST=localhost
-set HOST=cartman
-set PORT=5432
-set DBNAME=ipr
+set HOST=
+set PORT=
+set DBNAME=
 
-set USERNAME=ipr
-set USERPSWD=ipr
-set USERSHEMA=ipr
-
-rem set USERNAME=postgres
-rem set USERPSWD=postgres
-rem set USERSHEMA=public
+set USERNAME=
+set USERPSWD=
+set USERSHEMA=
 
 rem
 rem ============================
